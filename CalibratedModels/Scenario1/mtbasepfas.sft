@@ -1,0 +1,75 @@
+      1594      1594        81        82         0                              # nsfinit, mxsfbc, icbcsf, ioutobs, ietsfr
+         1   0.50000   1.00000 0.0000010       100   1.00000         0 # isfsolv, wimp, wups, cclosesf, mxitersf, crntsf, iprtxmd
+      2047         1        (1594E15.6)        -1 #coldsf
+OPEN/CLOSE         modelinputs/coldsf2.ref               1 (1594E15.6) -1 coldsf2                       
+OPEN/CLOSE         modelinputs/coldsf3.ref               1 (1594E15.6) -1 coldsf3                       
+OPEN/CLOSE         modelinputs/coldsf4.ref               1 (1594E15.6) -1 coldsf4                       
+      2048         1        (1594E15.6)        -1 #dispsf
+OPEN/CLOSE         modelinputs/dispsf2.ref               1 (1594E15.6) -1 dispsf2                       
+OPEN/CLOSE         modelinputs/dispsf3.ref               1 (1594E15.6) -1 dispsf3                       
+OPEN/CLOSE         modelinputs/dispsf4.ref               1 (1594E15.6) -1 dispsf4                       
+        24                 # nobssf
+        62                          # location of obs as given by position in irch list
+       119                          # location of obs as given by position in irch list
+       135                          # location of obs as given by position in irch list
+       156                          # location of obs as given by position in irch list
+       243                          # location of obs as given by position in irch list
+       282                          # location of obs as given by position in irch list
+       301                          # location of obs as given by position in irch list
+       373                          # location of obs as given by position in irch list
+       379                          # location of obs as given by position in irch list
+       386                          # location of obs as given by position in irch list
+       454                          # location of obs as given by position in irch list
+       576                          # location of obs as given by position in irch list
+       588                          # location of obs as given by position in irch list
+       603                          # location of obs as given by position in irch list
+       615                          # location of obs as given by position in irch list
+       720                          # location of obs as given by position in irch list
+       811                          # location of obs as given by position in irch list
+       902                          # location of obs as given by position in irch list
+       915                          # location of obs as given by position in irch list
+      1185                          # location of obs as given by position in irch list
+      1197                          # location of obs as given by position in irch list
+      1337                          # location of obs as given by position in irch list
+      1349                          # location of obs as given by position in irch list
+      1589                          # location of obs as given by position in irch list
+         0       # ntmp - SP     0
+         0       # ntmp - SP     1
+         0       # ntmp - SP     2
+         0       # ntmp - SP     3
+         0       # ntmp - SP     4
+         0       # ntmp - SP     5
+         0       # ntmp - SP     6
+         0       # ntmp - SP     7
+         0       # ntmp - SP     8
+         0       # ntmp - SP     9
+         0       # ntmp - SP    10
+         0       # ntmp - SP    11
+         0       # ntmp - SP    12
+         0       # ntmp - SP    13
+         0       # ntmp - SP    14
+         0       # ntmp - SP    15
+         0       # ntmp - SP    16
+         0       # ntmp - SP    17
+         0       # ntmp - SP    18
+         0       # ntmp - SP    19
+         0       # ntmp - SP    20
+         0       # ntmp - SP    21
+         0       # ntmp - SP    22
+         0       # ntmp - SP    23
+         0       # ntmp - SP    24
+         0       # ntmp - SP    25
+         0       # ntmp - SP    26
+         0       # ntmp - SP    27
+         0       # ntmp - SP    28
+         0       # ntmp - SP    29
+         0       # ntmp - SP    30
+         0       # ntmp - SP    31
+         0       # ntmp - SP    32
+         0       # ntmp - SP    33
+         0       # ntmp - SP    34
+         0       # ntmp - SP    35
+         0       # ntmp - SP    36
+         0       # ntmp - SP    37
+         0       # ntmp - SP    38
+         0       # ntmp - SP    39
