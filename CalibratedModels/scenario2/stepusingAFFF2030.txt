@@ -1,1 +1,2 @@
-
+only mtbasepfas.ssm file is different from scenario1
+you can replace this file in scenario1 and run the model to get the output of scenario2
