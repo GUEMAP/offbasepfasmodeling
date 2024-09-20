@@ -1,1 +1,3 @@
-
+1. download the files in Scenario1 folder
+2. run the modelopt01run.ipynb file in jupyter notebook
+3. Analyze the output for PFOS
